@@ -1,0 +1,93 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Immune System Module 4:  The Adaptive Immune Response: B-lymphocytes and Antibodies</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49785</md:content-id>
+  <md:title>Immune System Module 4:  The Adaptive Immune Response: B-lymphocytes and Antibodies</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how B cells mature and how B cell tolerance develops</item>
+<item>Discuss how B cells are activated and differentiate into plasma cells</item>
+<item>Describe the structure of the antibody classes and their functions</item>
+</list></md:abstract>
+  <md:uuid>06fbc414-be4a-4b51-ae40-7fdfc99f4ad0</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1433157">Antibodies were the first part of the adaptive immune response to be discovered by scientists working on the immune system. It was already known that individuals who survived a bacterial infection were immune to re-infection with the same pathogen. Early microbiologists took blood from a patient who was already exposed to a certain pathogen and tested it. They learned that there was a substance in the blood, called an <term>antibody</term> which prevented the individual from getting sick from that pathogen. As studies continued, it was discovered that antibodies prevented the person from getting sick with the same illness a second time.</para><para id="fs-id1855302">What is an antibody? An antibody protein is essentially a secreted from a plasma cell. which develops from B cell. There are five different classes of antibodies found in humans: IgM, IgD, IgG, IgA, and IgE. Each of these has specific functions in the immune response. As researchers learn about them, they are able to learn about the great variety of antibody functions critical to many adaptive immune responses.</para><section id="fs-id1490078">
+<title>B Cell Differentiation and Activation</title>
+<para id="fs-id1891790">B cells differentiate in the bone marrow. During the process of maturation, up to 100 trillion different clones of B cells are generated, which is similar to the diversity of antigen receptors seen in T cells.</para>
+<para id="fs-id1907767">B cells are activated by binding to antigen. They differentiate into plasma cells. Plasma cells often leave the lymphoid organs migrate back to the bone marrow, where the whole differentiation process started. After secreting antibodies for a specific period, the B cells die, as most of their energy is devoted to making antibodies and not to maintaining themselves. </para><para id="fs-id2919449">The final B cell is the <term>memory B cell</term>, which results from exposure to a specific pathogen. Memory B cells function in a way similar to memory T cells. They lead to a stronger and faster secondary response when compared to the primary response. They "remember" the antibody for that pathogen which leads to quick production of antibodies.  Often you do not experience any symptoms as the secondary response is so quick and effective.</para></section>
+<section id="fs-id1206702">
+<title>Antibody Structure</title>
+<para id="fs-id2308482">Antibodies are proteins consisting of two chains with attached carbohydrates. The <term>heavy chain</term> and the <term>light chain</term> are the two proteins that form the antibody. The main differences between the classes of antibodies are in the differences between their heavy chains. There are 2 regions of the heavy chains known as the <term>constant and variable regions</term>.</para><section id="fs-id2576421">
+<title>Five Classes of Antibodies and their Functions</title>
+<figure id="fig-ch22_04_02"><title>Five Classes of Antibodies </title><media id="fs-id1216995" alt="This table shows the five classes of the immunoglobulins. The table shows the molecular weight, number of antigen binding sites, and their function.">
+<image mime-type="image/jpg" src="../../media/2221_Five_Classes_of_Antibodies_new.jpg" width="480"/>
+</media>
+</figure><para id="fs-id2522080"><term>IgM</term> is the largest of the antibody molecules. IgM is usually the first antibody made during a primary response. Its large shape allows it to bind well to many bacterial surfaces.Thus, it is a very effective antibody against bacteria at early stages of a primary antibody response. </para><para id="fs-id1278918"><term>IgG</term> is the main antibody of secondary responses in the blood. IgG is an antibody that clears pathogens from the blood and can activate complement proteins. This class of antibody is the one that crosses the placenta to protect the developing fetus from disease. </para><para id="fs-id1866202"><term>IgA</term> exists in exocrine gland secretions of the mucous membranes, including mucus, saliva, and tears. Thus, IgA is the only antibody to leave the interior of the body to protect body surfaces. IgA is also of importance to newborns, because this antibody is present in mother’s breast milk (colostrum), which serves to protect the infant from disease.</para><para id="fs-id1236738"><term>IgE</term> is usually associated with allergies and anaphylaxis. It is present in the lowest concentration in the blood. IgE is very specific, such that if a person is allergic to peanuts, there will be peanut-specific IgE bound to his or her cells. In this person, eating peanuts will have a severe allergic reactions, including <term>anaphylaxis</term>, a severe, systemic allergic response that can cause death.</para><para id="eip-204"><term>IgD</term> signals the B cells to be activated. By being activated, they are ready to take part in the defense of the body in the immune system. IgD also plays a role in protecting our respiratory systems from bacteria.</para></section>
+</section>
+<section id="fs-id2068367">
+<title>Active versus Passive Immunity</title>
+<para id="fs-id1390884">Immunity to pathogens, and the ability to control pathogen growth so that damage to the tissues of the body is limited, can be acquired by (1) the active development of an immune response in the infected individual or (2) the passive transfer of immune components from an immune individual to a nonimmune one. Both active and passive immunity have examples in the natural world and as part of medicine.</para>
+<para id="fs-id2326407"><term>Active immunity</term> is the resistance to pathogens acquired during an adaptive immune response within an individual. (<link target-id="tbl-ch22_06" document=""/>)  More simply, active immunity occurs when you make your own antibodies. <term> Naturally acquired active immunity </term>, is the response to a pathogen which has invaded one's body that leads to the manufacture of antibodies. <term>Artificially acquired active immunity </term>involves the use of vaccines. A vaccine is a killed or weakened pathogen that, when administered to a healthy individual, leads to the development of antibodies without causing much in the way of symptoms. Thus, with the use of vaccines, one can avoid the damage from disease that results from the first exposure to the pathogen, yet reap the benefits of protection from antibodies. Although you make your own antibodies, a vaccine is considered to be artificial immunity since it needs to be administered to you. The discovery of  vaccines was one of the major medical advances of the twentieth century and led to the wipe out of smallpox and the control of many infectious diseases, including polio, measles, and whooping cough.</para><table id="tbl-ch22_06" summary="">
+<tgroup cols="3" align="left">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3">Active versus Passive Immunity</entry>
+</row>
+<row>
+<entry/>
+<entry>Natural</entry>
+<entry>Artificial</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><emphasis effect="bold">Active</emphasis></entry>
+<entry>Adaptive immune response</entry>
+<entry>Vaccine response</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Passive</emphasis></entry>
+<entry>Trans-placental antibodies/breastfeeding</entry>
+<entry>Immune globulin injections</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id2023055"><term>Passive immunity</term> arises from the transfer of antibodies to an individual without requiring them to create their own antibodies. <term>Naturally acquired passive immunity</term> is seen during fetal development. IgG is transferred from the maternal circulation to the fetus via the placenta, protecting the fetus from infection and protecting the newborn for the first few months of its life.  A newborn benefits from the IgA antibodies it obtains from milk during breastfeeding. The fetus and newborn thus benefit from the antibodies of the mother to the pathogens to which she has been exposed. In medicine, <term> artificially acquired passive immunity</term> usually involves injections of immunoglobulins, taken from people or animals previously exposed to a specific pathogen. This treatment is a fast-acting method of temporarily protecting an individual who was possibly exposed to a pathogen. The downside to both types of passive immunity is the lack of ability to create their own antibodies. Once the antibodies are transferred, they are effective for only a limited time before they degrade.  Once again an example such as breastfeeding is natural immunity, since it happens without medical administration.  Immunoglobulins are considered artificial immunity since they have to be administered.</para></section>
+<section id="fs-id2037191" class="interactive-exercise"><exercise id="eip-id1472433">
+<problem id="eip-id1472435">
+<para id="fs-id1471243">Immunity can be acquired in an active or passive way, and it can be natural or artificial. Watch this <link url="http://openstaxcollege.org/l/immunity">video</link> to see an animated discussion of passive and active immunity. What is an example of natural immunity acquired passively?</para>
+</problem>
+<solution id="eip-id1383614">
+<label/>
+<para id="fs-id1349595">Breastfeeding is an example of natural immunity acquired passively.</para>
+</solution>
+</exercise>
+</section></content>
+<glossary>
+<definition id="fs-id2340926"><term>active immunity</term> <meaning id="fs-id805218">immunity developed from an individual’s own immune system</meaning></definition>
+<definition id="fs-id2326806"><term>central tolerance</term> <meaning id="fs-id2156378">B cell tolerance induced in immature B cells of the bone marrow</meaning></definition>
+<definition id="fs-id2660487"><term>class switching</term> <meaning id="fs-id1910422">ability of B cells to change the class of antibody they produce without altering the specificity for antigen</meaning></definition>
+<definition id="fs-id2058047"><term>clonal anergy</term> <meaning id="fs-id2337461">process whereby B cells that react to soluble antigens in bone marrow are made nonfunctional</meaning></definition>
+<definition id="fs-id1887794"><term>clonal deletion</term> <meaning id="fs-id2148035">removal of self-reactive B cells by inducing apoptosis</meaning></definition>
+<definition id="fs-id1910406"><term>Fc region</term> <meaning id="fs-id1488089">in an antibody molecule, the site where the two termini of the heavy chains come together; many cells have receptors for this portion of the antibody, adding functionality to these molecules</meaning></definition>
+<definition id="fs-id1290508"><term>heavy chain</term> <meaning id="fs-id2569502">larger protein chain of an antibody</meaning></definition>
+<definition id="fs-id2228849"><term>IgA</term> <meaning id="fs-id1894921">antibody whose dimer is secreted by exocrine glands, is especially effective against digestive and respiratory pathogens, and can pass immunity to an infant through breastfeeding</meaning></definition>
+<definition id="fs-id2168787"><term>IgD</term> <meaning id="fs-id2170300">class of antibody whose only known function is as a receptor on naive B cells; important in B cell activation</meaning></definition>
+<definition id="fs-id2059614"><term>IgE</term> <meaning id="fs-id2151112">antibody that binds to mast cells and causes antigen-specific degranulation during an allergic response</meaning></definition>
+<definition id="fs-id2019659"><term>IgG</term> <meaning id="fs-id1764803">main blood antibody of late primary and early secondary responses; passed from mother to unborn child via placenta</meaning></definition>
+<definition id="fs-id2005507"><term>IgM</term> <meaning id="fs-id2240666">antibody whose monomer is a surface receptor of naive B cells; the pentamer is the first antibody made blood plasma during primary responses</meaning></definition>
+<definition id="fs-id2345279"><term>immunoglobulin</term> <meaning id="fs-id2026351">protein antibody; occurs as one of five main classes</meaning></definition>
+<definition id="fs-id1547573"><term>light chain</term> <meaning id="fs-id1522282">small protein chain of an antibody</meaning></definition>
+<definition id="fs-id1372866"><term>passive immunity</term> <meaning id="fs-id2023354">transfer of immunity to a pathogen to an individual that lacks immunity to this pathogen usually by the injection of antibodies</meaning></definition>
+<definition id="fs-id2181464"><term>peripheral tolerance</term> <meaning id="fs-id2203578">mature B cell made tolerant by lack of T cell help</meaning></definition>
+<definition id="fs-id503718"><term>T cell-dependent antigen</term> <meaning id="fs-id1748327">antigen that binds to B cells, which requires signals from T cells to make antibody</meaning></definition>
+<definition id="fs-id1905702"><term>T cell-independent antigen</term> <meaning id="fs-id1431253">binds to B cells, which do not require signals from T cells to make antibody</meaning></definition>
+</glossary>
+</document>

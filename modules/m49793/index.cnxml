@@ -1,0 +1,41 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Immune System Module 5:  The Immune Response against Pathogens</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49793</md:content-id>
+  <md:title>Immune System Module 5:  The Immune Response against Pathogens</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the development of immunological competence</item>
+<item>Describe the mucosal immune response</item>
+<item>Discuss immune responses against bacterial, viral, fungal, and animal pathogens</item>
+<item>Describe different ways pathogens evade immune responses</item>
+</list></md:abstract>
+  <md:uuid>aee853db-c6f4-4c13-9f10-5dcb3eff0dd0</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1982969">Now that you understand the development of B cells and T cells, and some of their major functions, how do all of these various cells, proteins, and cytokines come together to actually resolve an infection? Ideally, the immune response will rid the body of a pathogen entirely. The adaptive immune response is well suited to this purpose. Think of a primary infection as a race between the pathogen and the immune system. The pathogen bypasses barrier defenses and starts multiplying in the host’s body. During the first 4 to 5 days, the innate immune response will partially control, but not stop, pathogen growth. As the adaptive immune response gears up, however, it will begin to clear the pathogen from the body, while at the same time becoming stronger and stronger. As the antibody levels rise, the virus levels decline, and this is a sign that the immune response is being at least partially effective.</para><para id="fs-id1373635">An excellent example of this is seen in a patient with HIV disease (<link target-id="fig-ch22_05_01" document=""/>). Notice that antibodies are made early in this disease, and the increase in anti-HIV antibodies correlates with a decrease in detectable virus in the blood. Although these antibodies are an important marker for diagnosing the disease, they are not sufficient to completely clear the virus. Several years later, the vast majority of these individuals, if untreated, will lose their entire adaptive immune response, including the ability to make antibodies, during the final stages of AIDS.</para><figure id="fig-ch22_05_01"><title>HIV Disease Progression </title><media id="fs-id1882242" alt="This graph shows the concentration of HIV viral particles in blood over time in years.">
+<image mime-type="image/jpg" src="../../media/2225_HIV_Disease_Progression.jpg" width="480"/>
+</media>
+<caption>Seroconversion, the rise of anti-HIV antibody levels and the concomitant decline in measurable virus levels, happens during the first several months of HIV disease. Unfortunately, this antibody response is ineffective at controlling the disease, as seen by the progression of the disease towards AIDS, in which all adaptive immune responses are compromised.</caption></figure><note id="fs-id1489212" class="anatomy everyday">
+<label/>
+<title>Everyday Connection</title>
+<para id="fs-id1636656"><title>Disinfectants: Fighting the Good Fight?</title>
+“Wash your hands!” Parents have been telling their children this for generations. Dirty hands can spread disease. But is it possible to get rid of enough pathogens that children will never get sick? Are children who avoid exposure to pathogens better off? The answers to both these questions appears to be no.</para>
+<para id="fs-id1350098">Antibacterial wipes, soaps, gels, and even toys with antibacterial substances embedded in their plastic are ubiquitous in our society. Still, these products do not rid the skin and gastrointestinal tract of bacteria, and it would be harmful to our health if they did. We need these nonpathogenic bacteria on and within our bodies to keep the pathogenic ones from growing. The urge to keep children perfectly clean is thus probably misguided. Children will get sick anyway, and the later benefits of immunological memory far outweigh the minor discomforts of most childhood diseases. In fact, getting diseases such as chickenpox or measles later in life is much harder on the adult and are associated with symptoms significantly worse than those seen in the childhood illnesses. Of course, vaccinations help children avoid some illnesses, but there are so many pathogens, we will never be immune to them all.</para>
+<para id="fs-id1635434">Could over-cleanliness be the reason that allergies are increasing in more developed countries? Some scientists think so. <term>Allergies</term> are based on an IgE antibody response. An allergy is an error of the immune system.  The body interprets a harmless protein as an antigen and fights against it, despite the fact that the substance poses no threat to the individual. Many scientists think the system evolved to help the body rid itself of worm parasites. The hygiene theory is the idea that the immune system is geared to respond to antigens, and if pathogens are not present, it will respond instead to inappropriate antigens such as allergens and self-antigens. This is one explanation for the rising incidence of allergies in developed countries, where the response to nonpathogens like pollen, shrimp, and cat dander cause allergic responses while not serving any protective function. <term>Autoimmune diseases </term>  like lupus and rheumatoid arthritis are caused by the immune system's attack on proteins manufactured by one's own body.  Again these "self" substance pose no threat to the individual but the immune system mistakenly attacks them.</para></note>
+<section id="fs-id1866203">
+<title>Defenses against Viruses</title>
+<para id="fs-id2300941">The primary mechanisms against viruses are NK cells, interferons, and cytotoxic T cells. Antibodies are effective against viruses mostly during a secondary response, where an immune individual can neutralize them based on a previous exposure. Antibodies have no effect on viruses once they enter the cell, since antibodies are not able to penetrate the plasma membrane of the cell. </para><para id="fs-id1522283"><term>Interferons</term> have activity in slowing viral replication and are used in the treatment of certain viral diseases, such as hepatitis B and C, but their ability to eliminate the virus completely is limited. The cytotoxic T cell response, though, is key, as it eventually overwhelms the virus and kills infected cells before the virus can complete its replication cycle. The ability of cytotoxic T cells to kill more than one target cell make these cells especially effective against viruses. In fact, without cytotoxic T cells, it is likely that humans would all die at some point from a viral infection (if no vaccine were available).</para></section>
+<section id="fs-id1854360" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1853731">Early childhood is a time when the body develops much of its immunological memory that protects it from diseases in adulthood. The components of the immune response that have the maximum effectiveness against a pathogen are often associated with the class of pathogen involved. Bacteria and fungi are especially susceptible to damage by complement proteins, whereas viruses are taken care of by interferons and cytotoxic T cells. Worms are attacked by eosinophils. Pathogens have shown the ability, however, to evade the body’s immune responses, some leading to chronic infections or even death. The immune system and pathogens are in a slow, evolutionary race to see who stays on top. Modern medicine, hopefully, will keep the results skewed in humans’ favor.</para>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1491390"><term>macrophage oxidative metabolism</term> <meaning id="fs-id1381555">metabolism turned on in macrophages by T cell signals that help destroy intracellular bacteria</meaning></definition>
+<definition id="fs-id1882924"><term>neutralization</term> <meaning id="fs-id1243677">inactivation of a virus by the binding of specific antibody</meaning></definition>
+<definition id="fs-id1883174"><term>seroconversion</term> <meaning id="fs-id2021228">clearance of pathogen in the serum and the simultaneous rise of serum antibody</meaning></definition>
+</glossary>
+</document>
